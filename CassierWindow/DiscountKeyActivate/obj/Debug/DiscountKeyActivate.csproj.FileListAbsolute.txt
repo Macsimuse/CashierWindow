@@ -1,0 +1,5 @@
+D:\proectsVS\WindowsFormsApplication2\DiscountKeyActivate\bin\Debug\DiscountKeyActivate.dll
+D:\proectsVS\WindowsFormsApplication2\DiscountKeyActivate\bin\Debug\DiscountKeyActivate.pdb
+D:\proectsVS\WindowsFormsApplication2\DiscountKeyActivate\obj\Debug\DiscountKeyActivate.dll
+D:\proectsVS\WindowsFormsApplication2\DiscountKeyActivate\obj\Debug\DiscountKeyActivate.pdb
+D:\proectsVS\WindowsFormsApplication2\DiscountKeyActivate\obj\Debug\DiscountKeyActivate.csprojResolveAssemblyReference.cache

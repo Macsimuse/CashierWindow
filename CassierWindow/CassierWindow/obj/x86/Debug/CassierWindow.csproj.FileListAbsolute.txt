@@ -1,0 +1,10 @@
+D:\proectsVS\CassierWindow\CassierWindow\obj\x86\Debug\Silpo.exe
+D:\proectsVS\CassierWindow\CassierWindow\obj\x86\Debug\Silpo.pdb
+D:\proectsVS\CassierWindow\CassierWindow\bin\Debug\Silpo.exe
+D:\proectsVS\CassierWindow\CassierWindow\bin\Debug\Silpo.pdb
+D:\proectsVS\CassierWindow\CassierWindow\bin\Debug\DiscountKeyActivate.dll
+D:\proectsVS\CassierWindow\CassierWindow\bin\Debug\DiscountKeyActivate.pdb
+D:\proectsVS\CassierWindow\CassierWindow\obj\x86\Debug\CassierWindow.csprojResolveAssemblyReference.cache
+D:\proectsVS\CassierWindow\CassierWindow\obj\x86\Debug\Silpo.Properties.Resources.resources
+D:\proectsVS\CassierWindow\CassierWindow\obj\x86\Debug\CassierWindow.csproj.GenerateResource.Cache
+D:\proectsVS\CassierWindow\CassierWindow\obj\x86\Debug\WindowCassier.Form1.resources

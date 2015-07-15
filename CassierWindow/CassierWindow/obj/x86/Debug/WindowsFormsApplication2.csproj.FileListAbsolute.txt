@@ -1,0 +1,10 @@
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Silpo.Properties.Resources.resources
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Silpo.exe
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Silpo.pdb
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Silpo.exe
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Silpo.pdb
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DiscountKeyActivate.dll
+D:\proectsVS\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DiscountKeyActivate.pdb
